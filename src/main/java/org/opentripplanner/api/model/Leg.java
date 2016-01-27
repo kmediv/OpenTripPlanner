@@ -200,7 +200,7 @@ public class Leg {
     public Place from = null;
     
     /**
-     * The Place where the leg begins.
+     * The Place where the leg ends.
      */
     public Place to = null;
 
